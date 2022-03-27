@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: 4253e19f-9272-8b86-b5f3-ed21b2c92575
 resourcetype: Document
 title: kerwin_notes.pdf
 uid: 6f698ed0-1918-0565-602e-04d6a7a71856

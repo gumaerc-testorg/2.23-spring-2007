@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 12ca450f-55d4-7e6e-a2db-a18cbd90e804
 resourcetype: Document
 title: tidal_turbine.pdf
 uid: ad323e7d-6e3b-4720-0c90-9c59c9e17e69
