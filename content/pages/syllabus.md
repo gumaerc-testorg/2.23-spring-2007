@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  about the course text, evaluation, and the schedule of course topics and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 2864c42f-5da5-49dd-33d0-2157136b4063
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -23,7 +29,7 @@ Text
 
 This course uses notes developed by Prof. Jake Kerwin in past years.
 
-Kerwin, Justin. _Lecture Notes on Hydrofoils and Propellers_. Cambridge, MA, January 2001. ([PDF - 3.4 MB]({{< baseurl >}}/resources/kerwin_notes)) (Courtesy of Prof. Justin Kerwin. Used with permission.)
+Kerwin, Justin. _Lecture Notes on Hydrofoils and Propellers_. Cambridge, MA, January 2001. ({{% resource_link 6f698ed0-1918-0565-602e-04d6a7a71856 "PDF - 3.4 MB" %}}) (Courtesy of Prof. Justin Kerwin. Used with permission.)
 
 Evaluation
 ----------
