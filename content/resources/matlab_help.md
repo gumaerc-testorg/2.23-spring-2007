@@ -5,6 +5,7 @@ file: /courses/2-23-hydrofoils-and-propellers-spring-2007/0ef8170d15a899aefbb643
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: matlab_help.m
 uid: 0ef8170d-15a8-99ae-fbb6-434167fca30b
 ---
 This resource contains a General MATLAB? Intro.
-

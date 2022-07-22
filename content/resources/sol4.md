@@ -5,6 +5,7 @@ file: /courses/2-23-hydrofoils-and-propellers-spring-2007/e42a2ec88c4facdbd9b374
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

@@ -6,6 +6,7 @@ file: /courses/2-23-hydrofoils-and-propellers-spring-2007/6f698ed019180565602e04
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Complete course lecture notes on Hydrofoils and Propellers by Justin E. Kerwin.
-

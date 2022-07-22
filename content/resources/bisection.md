@@ -5,6 +5,7 @@ file: /courses/2-23-hydrofoils-and-propellers-spring-2007/9639f2fee1c571d33b629f
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: bisection.m
 uid: 9639f2fe-e1c5-71d3-3b62-9f0ca7972471
 ---
 This resource contains a MATLAB? file for use with the course.
-

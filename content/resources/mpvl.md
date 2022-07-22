@@ -6,6 +6,7 @@ file: /courses/2-23-hydrofoils-and-propellers-spring-2007/9d6e76408eddf30893e8b4
 file_type: application/zip
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains MPVL Code and Manual. (The ZIP file contains: MPVL.m and usermanual.pdf.)
-

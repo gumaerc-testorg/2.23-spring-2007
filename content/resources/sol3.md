@@ -6,6 +6,7 @@ file: /courses/2-23-hydrofoils-and-propellers-spring-2007/869b69476ab7d3ce3545a0
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solutions to a problem set. (The ZIP file contains: 6 .m files.)
-
