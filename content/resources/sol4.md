@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-23-hydrofoils-and-propellers-spring-2007/e42a2ec88c4facdbd9b3745c68e81f81_sol4.pdf
+file_size: 514910
 file_type: application/pdf
 learning_resource_types:
 - Assignments

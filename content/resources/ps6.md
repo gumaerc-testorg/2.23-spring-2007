@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains an assigned problem set.
 file: /courses/2-23-hydrofoils-and-propellers-spring-2007/3dc6b3458f5394d331a100f684f3791f_ps6.pdf
+file_size: 25300
 file_type: application/pdf
 learning_resource_types:
 - Assignments
