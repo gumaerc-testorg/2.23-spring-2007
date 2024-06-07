@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a General MATLAB? Intro.
 file: /courses/2-23-hydrofoils-and-propellers-spring-2007/0ef8170d15a899aefbb6434167fca30b_matlab_help.m
+file_size: 5674
 file_type: text/plain
 learning_resource_types:
 - Tools
