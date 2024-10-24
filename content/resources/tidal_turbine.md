@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information on the Tidal Turbine Design Project.
-file: /courses/2-23-hydrofoils-and-propellers-spring-2007/ad323e7d6e3b47200c909c59c9e17e69_tidal_turbine.pdf
+file: /ol-ocw-studio-app/courses/2-23-hydrofoils-and-propellers-spring-2007/ad323e7d6e3b47200c909c59c9e17e69_tidal_turbine.pdf
 file_size: 13952
 file_type: application/pdf
 learning_resource_types:

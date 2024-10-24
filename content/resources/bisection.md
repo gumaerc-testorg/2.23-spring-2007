@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a MATLAB? file for use with the course.
-file: /courses/2-23-hydrofoils-and-propellers-spring-2007/9639f2fee1c571d33b629f0ca7972471_bisection.m
+file: /ol-ocw-studio-app/courses/2-23-hydrofoils-and-propellers-spring-2007/9639f2fee1c571d33b629f0ca7972471_bisection.m
 file_size: 634
 file_type: text/plain
 learning_resource_types:
