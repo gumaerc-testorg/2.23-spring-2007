@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains MPVL Code and Manual. (The ZIP file contains:
   MPVL.m and usermanual.pdf.)'
-file: /courses/2-23-hydrofoils-and-propellers-spring-2007/9d6e76408eddf30893e8b4b1da2cb37a_mpvl.zip
+file: /ol-ocw-studio-app/courses/2-23-hydrofoils-and-propellers-spring-2007/9d6e76408eddf30893e8b4b1da2cb37a_mpvl.zip
 file_size: 658076
 file_type: application/zip
 learning_resource_types:
