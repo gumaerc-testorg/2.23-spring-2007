@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains an assigned problem set.
-file: /courses/2-23-hydrofoils-and-propellers-spring-2007/f40199f81f4c6ad4f2848e0d594491cc_ps1.pdf
+file: /ol-ocw-studio-app/courses/2-23-hydrofoils-and-propellers-spring-2007/f40199f81f4c6ad4f2848e0d594491cc_ps1.pdf
 file_size: 24438
 file_type: application/pdf
 learning_resource_types:
