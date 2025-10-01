@@ -21,4 +21,4 @@ General MATLAB® Intro: ({{% resource_link 0ef8170d-15a8-99ae-fbb6-434167fca30b 
 Bisection Method: ({{% resource_link 9639f2fe-e1c5-71d3-3b62-9f0ca7972471 "M" %}})  
 Euler's Method For Fourier Series: ({{% resource_link 620a0eb0-466b-7e7b-9c91-ea4849572ab6 "M" %}})
 
-[OpenProp](http://web.mit.edu/openprop/www/Welcome.html): An open repository of tools and other resources for propeller design.
+{{% resource_link "fc8a71f3-a8eb-4cc9-9ecd-28992fa103de" "OpenProp" %}}: An open repository of tools and other resources for propeller design.
